@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 git add .
 git commit -m "update"
 git push origin master  
+=======
+
+>>>>>>> 5acc84c32f9e81ba47abb43be44fc34e14b8f9f0
